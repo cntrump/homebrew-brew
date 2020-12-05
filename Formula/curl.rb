@@ -1,4 +1,4 @@
-class curl < Formula
+class HomebrewBrew < Formula
   desc "curl is used in command lines or scripts to transfer data."
   homepage "https://github.com/cntrump/build_curl/"
   url "https://github.com/cntrump/homebrew-brew/releases/download/v7.73.0/curl-7.73.0_macosx.zip"
