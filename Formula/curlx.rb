@@ -5,7 +5,7 @@ class Curlx < Formula
   sha256 "fa6534488b29d7a506f200863434c1e1487faa7eba1728f1ae2b786aaa15179d"
 
   def install
-    bin.install "curl"
+    bin.install "curlx"
   end
   
   test do
