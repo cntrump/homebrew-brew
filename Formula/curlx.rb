@@ -9,6 +9,6 @@ class Curlx < Formula
   end
   
   test do
-    system "#{bin}/curl --version"
+    system "#{bin}/curlx --version"
   end
 end
