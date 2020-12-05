@@ -1,2 +1,2 @@
-# curl formula for Homebrew
+# Homebrew
 
