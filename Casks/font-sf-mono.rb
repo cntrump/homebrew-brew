@@ -1,4 +1,4 @@
-cask "font-sfmono" do
+cask "font-sf-mono" do
   version :latest
   sha256 :no_check
 
