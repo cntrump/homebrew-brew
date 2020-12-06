@@ -3,7 +3,7 @@ cask "font-source-code-pro" do
   version "2.032"
   sha256 "026d7644bed97a7934caa63eacd9fd83beeacfd301d9d29fcc899f32d4004a12"
 
-  url "https://github.com/adobe-fonts/source-code-pro/releases/download/v#{version}R-ro%2F1.052R-it%2F1.012R-VAR/TTF-source-code-pro-v#{version}R-ro-1.052R-it.zip"
+  url "https://github.com/adobe-fonts/source-code-pro/releases/download/v#{version}R-ro/1.052R-it/1.012R-VAR/TTF-source-code-pro-v#{version}R-ro-1.052R-it.zip"
   name "Source Code Pro"
   desc "Source Code Pro is a set of OpenType fonts that have been designed to work well in user interface (UI) environments."
   homepage "https://github.com/adobe-fonts/source-code-pro"
