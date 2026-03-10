@@ -4,8 +4,8 @@
 brew tap cntrump/brew
 ```
 
-## Install package
+## Install SF Mono Terminal Font
 
 ```
-brew install curlx
+brew install --cask font-sf-mono
 ```
